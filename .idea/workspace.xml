@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2fd69901-151f-4cb9-ba4e-baa05796822f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/array/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +38,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ArrayPractice">
+    <configuration name="ArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ArrayPractice" />
+      <module name="array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="array" />
@@ -53,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayPractice" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -68,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571946638226</updated>
       <workItem from="1571946644490" duration="3621000" />
-      <workItem from="1572013895763" duration="4332000" />
+      <workItem from="1572013895763" duration="8462000" />
     </task>
     <servers />
   </component>
